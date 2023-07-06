@@ -20,3 +20,12 @@ With what we have, we can still infer that the viewers are using Twitch as a sou
 
 ## Conclusion ##
 Twitch was originally founded for the gaming community, and it still holds that to be true. However,  the natural growth of the platform created by its users allowed a new space to emerge all on its own. If Twitch takes advantage of this new growth correctly, it has a very high potential to transform itself into a multinational hub of live entertainment and a respected source of information. Other companies like Meta and TikTok have already dipped their toe into the live streaming marketplace. Right now Twitch is positioned to become a beast, but they need to keep their momentum and foster the growth in its community for future work.
+
+
+### Tableau account
+
+https://public.tableau.com/app/profile/anthony.shortt
+
+### LinkedIn
+
+www.linkedin.com/in/anthonyshortt
